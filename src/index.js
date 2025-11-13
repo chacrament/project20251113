@@ -4,13 +4,13 @@ import './index.css';
 //import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const temp_number = 5;
-let text = "5?";
-if(temp_number > 5) {
-  text = "over_5";
-} else {
-  text = "under or equal 5";
-}
+// const temp_number = 5;
+// let text = "5?";
+// if(temp_number > 5) {
+//   text = "over_5";
+// } else {
+//   text = "under or equal 5";
+// }
 /*
 const myElement = <h1>I Love JSX!</h1>;
 const myElement2 = React.createElement('h1', {}, 'I do not use JSX!');

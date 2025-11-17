@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Hello from './Hello';
+import Garage from './Garage';
 
 function App() {
   return (
@@ -9,6 +11,10 @@ function App() {
         <p>
           Edit~~!! <code>src/App.js</code> and save to reload.
         </p>
+
+        <Hello name="1234"/>
+        <Garage />
+
         <a
           className="App-link"
           href="https://reactjs.org"
